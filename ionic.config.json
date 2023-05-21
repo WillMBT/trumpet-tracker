@@ -1,0 +1,8 @@
+{
+  "name": "Trumpet Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7eccc8ae"
+}
