@@ -83,13 +83,13 @@ a:hover{
 button{
   font-size: 15px;
   width:350px;
-  background-color: #808080;
+  background-color: #8e8e8e;
   color: white;
   border: none;
   cursor: pointer;
   border-radius: 10px;
   font-size: 20px;
-  border-color: #666666;
+  border: none;
   padding-bottom: 15px;
   padding-top:15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
@@ -98,7 +98,7 @@ button{
 }
 
 button:hover{
-  background-color: #666666;
-  
+  background-color: #6f6f6f;
+  box-shadow: none;
   
 }
